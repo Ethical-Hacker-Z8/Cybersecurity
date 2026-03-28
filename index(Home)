@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zohaib Cyber Security</title>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/script.js" defer></script>
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a> |
+  <a href="about.html">About</a> |
+  <a href="tools.html">Tools</a> |
+  <a href="projects.html">Projects</a> |
+  <a href="contact.html">Contact</a>
+</nav>
+
+<h1 class="typing">Welcome to Zohaib Cyber Security</h1>
+<p class="typing">Ethical Hacking | Networking | Linux</p>
+<p class="typing">Hacker-style portfolio website</p>
+
+</body>
+</html>
